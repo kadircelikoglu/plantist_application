@@ -52,6 +52,8 @@ Ensure you have the following installed:
 #Folder Structure
 ![Ekran görüntüsü 2024-08-30 194458](https://github.com/user-attachments/assets/5987d73a-edf6-4dd6-a74b-8c0f8185eeae)
 
+
+
 #App Screenshots 
 ![Group 2](https://github.com/user-attachments/assets/ca14a4b7-e7ff-42a7-8d26-23c93e06f120)
 
