@@ -1,0 +1,63 @@
+name: plantist_case
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  #Fonts
+  google_fonts: ^6.2.1
+
+  #Date
+  intl: ^0.19.0
+
+  #Image
+  image_picker: ^1.1.2
+
+  #Svg
+  flutter_svg: ^2.0.10+1
+
+  #Responsive
+  flutter_screenutil: ^5.9.3
+
+  #State Management
+  get: ^4.6.6
+
+  #Firebase
+  firebase_auth: ^5.1.4
+  firebase_core: ^3.3.0
+  cloud_firestore: ^5.3.0
+  firebase_storage: ^12.2.0
+
+  #Notifications
+  flutter_local_notifications: ^17.2.2
+  timezone: ^0.9.4
+  rxdart: ^0.28.0
+
+  #Others
+  kartal: ^4.0.4
+
+  flutter_slidable: ^3.1.1
+  permission_handler: ^11.3.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
