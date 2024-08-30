@@ -50,11 +50,10 @@ Ensure you have the following installed:
    flutter run
 
 #Folder Structure
-
-![folder](https://github.com/user-attachments/assets/bc34e92c-beea-4b3b-aedd-f84bd537f986)
+![Ekran görüntüsü 2024-08-30 194258](https://github.com/user-attachments/assets/87969e0e-7a37-4366-8282-4cd76fa04cae)
 
 #App Screenshots 
-![Group 2](https://github.com/user-attachments/assets/de432f4b-bcb6-4a01-8603-15d9d17d5047)
+![Group 2](https://github.com/user-attachments/assets/ca14a4b7-e7ff-42a7-8d26-23c93e06f120)
 
 
 # Dependencies
